@@ -199,7 +199,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics-ktx:17.5.0'
 
     //Views
-    implementation 'com.google.android.material:material:1.2.0'
+    implementation 'com.google.android.material:material:1.2.1'
     implementation 'androidx.viewpager2:viewpager2:1.1.0-alpha01'
 
     implementation "org.funktionale:funktionale-either:1.2"
