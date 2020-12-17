@@ -241,7 +241,7 @@ dependencies {
     implementation 'org.bouncycastle:bcprov-jdk15on:1.65'
 
     //DP3T
-    implementation 'org.dpppt:dp3t-sdk-android:1.0.3'
+    implementation 'org.dpppt:dp3t-sdk-android:2.0.1-dev-37-calibration'
     implementation 'com.google.android.gms:play-services-tasks:17.2.0'
 
     //DP3T aar dependencies
